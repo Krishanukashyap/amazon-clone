@@ -16,9 +16,11 @@ This project recreates the look of amazon's homepage and layout of products pure
 AUTHOR:
 
 Krishanu Kashyap
+<br>
 Email: Krishanukashyap0@gmail.com
 
 Disclaimer:-
 
 This product is a clone of the original amazon website and is made truly for educational purposes.
+<br>
 All product images,logos and branding belongs to Amazon.
