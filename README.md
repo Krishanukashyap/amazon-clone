@@ -7,7 +7,7 @@ This project recreates the look of amazon's homepage and layout of products pure
         Icons from font awesome.
 
     2. Preview:
-        !(preview)(Amazon clone.png)
+        !(preview)(Amazonclone.png)
 
     3. Learning Goals:
         This project helps me to practice:
