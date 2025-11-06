@@ -7,7 +7,7 @@ This project recreates the look of amazon's homepage and layout of products pure
         Icons from font awesome.
 
     2. Learning Goals:
-        This project helps me to practice:
+        This project helped me to practice:
 
         Front-end layout
         Using Flexbox and Grid
